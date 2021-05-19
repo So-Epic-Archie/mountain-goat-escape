@@ -1,0 +1,12 @@
+{
+    "egUGIlN$F%q(K~;:N5xz": {
+        "data": "hwQQABAAAAAAAAAPAAAAAAAAAA8AAAAAAAD//////wAAAB8RERHxAAAAHxH///8AAAAfEQ8AAAAAAB8RDwAAAAAAHxEPAAAAAAAfEQ8AAAAAAB8RDwAAAAAAHxH///8AAAAfERER8QDw/x8R////AAAAHxEPAAAAAPAf/w8AAAAAAP8PAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Mountain Goat"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
